@@ -3,7 +3,7 @@
 namespace PragmaRX\Tddd\Package\Services;
 
 use Illuminate\Support\Collection;
-use PragmaRX\Support\YamlConfig;
+use PragmaRX\Yaml\Package\Yaml as YamlConfig;
 
 class Config
 {
