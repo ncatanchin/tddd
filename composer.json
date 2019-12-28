@@ -39,7 +39,7 @@
 
     "autoload": {
         "psr-4": {
-            "PragmaRX\\Tddd\\Package\\": "src/package",
+            "PragmaRX\\Tddd\\Package\\": "src/package/",
             "PragmaRX\\Tddd\\Tests\\": "tests/"
         },
         "psr-0": {
@@ -51,7 +51,6 @@
     },
 
     "extra": {
-        "component": "package",
         "laravel": {
             "providers": [
                 "PragmaRX\\Tddd\\Package\\ServiceProvider"
