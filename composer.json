@@ -23,7 +23,7 @@
     "require": {
         "php": ">=7.0",
         "laravel/framework": ">=5.5",
-        "pragmarx/support": "~0.8",
+        "pragmarx/yaml": ">=0.3",
         "sensiolabs/ansi-to-html": "~1",
         "symfony/process": "^4",
         "guzzlehttp/guzzle": "~6.3",
